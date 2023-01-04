@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @MarkoNerds
+- 👋 Hi, I’m @md srfraj
+- 
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning .......................................
 - 💞️ I’m looking to collaborate on ..projects.
